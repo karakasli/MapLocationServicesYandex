@@ -47,7 +47,7 @@ public class MapsActivity extends FragmentActivity implements UserLocationObject
 {
     private static final String TAG = MapsActivity.class.getSimpleName();
 
-    private final String MAPKIT_API_KEY = "a08e6973-55fe-46ac-ab27-e4308a0209f0";
+    private final String MAPKIT_API_KEY = "Change with your Yandex MAP API KEY";
 
     private Location mLastKnownLocation;
 
